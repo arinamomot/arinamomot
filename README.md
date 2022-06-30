@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arina Momot</h1>
-<h3 align="center">I am a programmer with a great desire to develop and learn new things.</h3>
-<p align="center">I'm a third-year IT student at Czech Technical University in Prague.
+<h3 align="center">I'm a programmer with a great desire to develop and learn new things.</h3>
+<p align="center">I’m a graduate of Czech Technical University in Prague.
 I enjoy learning new things and work purposefully to achieve goals. I like getting new experiences, expand my horizons, and improve my skills.<br>
 I'm a team player. I like to meet new people, share my thoughts with them and I'm always happy to listen to other people's opinions, because each person is unique and has his own way of thinking.<br>
 I always work actively, do everything on time and in the best possible way.</p>

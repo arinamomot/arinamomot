@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arina Momot</h1>
+<h1 align="center">Hi, I'm Arina Momot 👋</h1>
 <h3 align="center">I'm a programmer with a great desire to develop and learn new things.</h3>
 <p>As a passionate Software Developer with 3 years of professional experience and a solid educational foundation from the Czech Technical University in Prague, I thrive on creating innovative solutions and continuously enhancing my technical skills. My expertise spans full-stack development, enabling me to efficiently manage both front-end and back-end tasks.
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arina Momot 👋</h1>
 <h3 align="center">I'm a programmer with a great desire to develop and learn new things.</h3>
-<p>As a passionate Software Developer with 3 years of professional experience and a solid educational foundation from the Czech Technical University in Prague, I thrive on creating innovative solutions and continuously enhancing my technical skills. My expertise spans full-stack development, enabling me to efficiently manage both front-end and back-end tasks.
+<p>As a passionate Software Developer with 3+ years of professional experience and a solid educational foundation from the Czech Technical University in Prague, I thrive on creating innovative solutions and continuously enhancing my technical skills. My expertise spans full-stack development, enabling me to efficiently manage both front-end and back-end tasks.
 
 In my current role, I focus on delivering high-quality work on time and to the best of my ability. I work well in team environments, where I appreciate diverse perspectives and collaborative problem-solving. My journey is driven by a commitment to constant learning, achieving goals, and embracing new experiences.
 
